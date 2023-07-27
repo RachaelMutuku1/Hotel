@@ -1,0 +1,4 @@
+Database Name : - hotel.sql
+user name : - admin
+password  : - admin
+
